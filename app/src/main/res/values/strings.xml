@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="sign_out">Sign out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_fragment">First Fragment for profile settings</string>
+    <string name="settings_for_the_app">Settings for the app</string>
+    <string name="thirdFragment">Third Fragment\n For Sign in or out</string>
+</resources>
